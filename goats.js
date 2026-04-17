@@ -6,6 +6,16 @@
 
 const GOATS = [
 	{
+		name: "Caves of Laugarvatn",
+		latitude: 64.21624410210917,
+		longitude: -20.88360697119182,
+		address: "Laugarvatnshellir, 840 Laugarvatn, Iceland",
+		notes: [
+			"My wife and I visited here when we road-tripped around Iceland, on the day I proposed to her (2018). The owners of this place were so cute and nice!",
+		],
+		url: "https://cavesoflaugarvatn.is/",
+	},
+	{
 		name: "Centennial Farm (OC Fair & Event Center)",
 		latitude: 33.666047537815324,
 		longitude: -117.90253351010584,
